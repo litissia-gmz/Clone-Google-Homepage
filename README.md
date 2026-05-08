@@ -1,3 +1,7 @@
+# Clone de la page d'accueil Google
+
+ **[Voir le site en direct ici](https://litissia-gmz.github.io/Clone-Google-Homepage/)**
+
 ##  Objectifs techniques
 - **Structure sémantique :** Utilisation pertinente des balises HTML5 (`<header>`, `<main>`, `<nav>`, `<footer>`).
 - **Mise en page CSS :** Utilisation avancée de **Flexbox** pour le centrage et l'alignement des éléments (barre de recherche, boutons, footer).
